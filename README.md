@@ -1,4 +1,4 @@
-<h1 align="center">My Notes App</h1>
+<h1 align="center">Tempat Wisata Kendal</h1>
 
 <div align="center">
   <a href="https://ibb.co/GstPVwY"><img src="https://i.ibb.co/gvPgD1q/hometempatwisata.png" height="400" alt="hometempatwisata" border="0"></a>
@@ -9,10 +9,12 @@
 
 ## About ##
 
+Flutter Project tempat Wisata
 - Nama : Dimas Salahuddin
 - NIM : 3.34.21.1.08
 - Kelas : IK-B
 - angkatan : 2021
+
 
 
 
