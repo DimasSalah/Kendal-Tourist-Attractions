@@ -1,22 +1,31 @@
-# flutter_application_4
+<h1 align="center">My Notes App</h1>
 
-Tempat Wisata Temanggung
+<p align="center">
+  <a href="#About">About</a> &#xa0; | &#xa0; 
+  <a href="#Features">Features</a> &#xa0; | &#xa0;
+  <a href="#Technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#Requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#Starting">Starting</a>
+</p>
 
-Created by Widigda Rahmamukti
-- NIM : 3.34.21.1.24
-- Kelas : IK-2B
-- Angkatan : 2021
+<div align="center">
+  <a href="https://ibb.co/GstPVwY"><img src="https://i.ibb.co/gvPgD1q/hometempatwisata.png" height="400" alt="hometempatwisata" border="0"></a>
+<a href="https://ibb.co/PQtLcsN"><img src="https://i.ibb.co/HdXStLV/detailwisata.png" height="400" alt="detailwisata" border="0"></a>
+</div>
 
-![Screenshot_1668065662](https://user-images.githubusercontent.com/117274670/201028172-57a11538-70d0-4df2-a515-3c857178cea0.png)
+<br>
 
-This project is a starting point for a Flutter application.
+## About ##
 
-A few resources to get you started if this is your first Flutter project:
+- Nama : Dimas Salahuddin
+- NIM : 3.34.21.1.08
+- Kelas : IK-B
+- angkatan : 2021
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# TempatWisata
+
+## Features ##
+
+:heavy_check_mark: List Wisata di daerah Kendal\
+:heavy_check_mark: Mengetahui jam operasi wisata\
+:heavy_check_mark: Mengetahui harga tiket masuk.
